@@ -6,7 +6,7 @@ This app will allow us to introduce ourselves by accepting user inputs in variou
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/TaoLyn838/IOS102-Pre-work-Introduce-Yourself/tree/main/App%20walk%20though" width=200><br>
 
 ### Required Features
 
